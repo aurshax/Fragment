@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="landscape_message">That is Landscape Mode</string>
+    <string name="portrait_message">That is Portrait Mode Example</string>
+</resources>
